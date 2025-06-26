@@ -1,0 +1,11 @@
+apscheduler
+configparser
+cryptography
+pyinstaller
+noisereduce
+numpy
+openpyxl
+selenium
+sounddevice
+soundfile
+wxPython
